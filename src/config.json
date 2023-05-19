@@ -1,4 +1,4 @@
 {
-    "SERVER": "http://localhost:3333",
+    "SERVER": "https://collabeye.onrender.com",
     "MEETING_SERVER": "https://desolate-lowlands-81248.herokuapp.com"
 }
